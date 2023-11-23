@@ -8,7 +8,7 @@ I really enjoy programming and love tinkering with my computer 🖥️. I've bee
 * 🧠  I'm learning C++, python and computer networks
 * ⚡  I use arch btw 😎
 * 💥  Some of my other hobbies are reading books, watching series, playing and nature
-*  
+
 ### Skills
 
 
