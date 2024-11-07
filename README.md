@@ -1,10 +1,12 @@
 Hi 👋 My name is Ananthanarayanan
 ==============================================================================================================================
 
+![](https://komarev.com/ghpvc/?username=ananthvk&color=green&style=for-the-badge&abbreviated=true)
+
 I really enjoy programming and love tinkering with my computer 🖥️. I've been programming for 3 years and I am currently interested in C++ and backend development ⚙️. I love to learn new things and I try to learn something new everyday.
 
 * 🌍  I'm based in Bengaluru, India
-* 🚀  I'm currently working on Django and async programming
+* 🚀  I'm currently working on Django and C++
 * 🧠  I'm learning C++, python and computer networks
 * ⚡  I use arch btw 😎
 * 💥  Some of my other hobbies are reading books, watching series, playing and nature
