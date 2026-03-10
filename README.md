@@ -1,6 +1,5 @@
 ![Header](./github-header-banner.png)
 
-==============================================================================================================================
 
 ![](https://komarev.com/ghpvc/?username=ananthvk&color=green&style=for-the-badge&abbreviated=true)
 
